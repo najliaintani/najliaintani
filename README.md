@@ -28,8 +28,3 @@ An undergraduate Data Science student, passionate about turning data into insigh
     <img src="Email.jpg" width="45"/>
   </a>
 </p>
-
-<a href="mailto:najliaintani@gmail.com">
-  <img src="Email.jpg" width="50">
-</a>
-
