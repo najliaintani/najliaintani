@@ -20,7 +20,7 @@ An undergraduate Data Science student, passionate about turning data into insigh
     <img src="LinkedIn.jpg" width="45"/>
   </a>
 
-  <a href="https://instagram.com/nnjliaa" target="_blank">
+<a href="https://instagram.com/nnjliaa" target="_blank" style="text-decoration:none;">
     <img src="Insta.jpg" width="45"/>
   </a>
 
@@ -28,23 +28,6 @@ An undergraduate Data Science student, passionate about turning data into insigh
     <img src="Email.jpg" width="45"/>
   </a>
 </p>
-
-###### Tech Stack
-<img src="Python.jpg" width="50" style="margin-right:5px;">
-<img src="R.jpg" width="50" style="margin-right:5px;">
-<img src="spss.png" width="50" style="margin-right:5px;">
-<img src="mysql.jpg" width="50" style="margin-right:5px;">
-<img src="powerbi2.jpg" width="50" style="margin-right:5px;">
-<img src="tableauk.jpg" width="50">
-
-###### Connect With Me
-<a href="https://linkedin.com/in/najliaintani323">
-  <img src="LinkedIn.jpg" width="50">
-</a>
-
-<a href="https://instagram.com/nnjliaa" target="_blank">
-  <img src="Insta.jpg" width="50">
-</a>
 
 <a href="mailto:najliaintani@gmail.com">
   <img src="Email.jpg" width="50">
