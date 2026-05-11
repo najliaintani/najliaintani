@@ -16,15 +16,15 @@ An undergraduate Data Science student, passionate about turning data into insigh
 <h6>Connect With Me</h6>
 
 <p>
-  <a href="https://linkedin.com/in/najliaintani323">
-    <img src="LinkedIn.jpg" width="70"/>
+  <a href="https://linkedin.com/in/najliaintani323" style="text-decoration:none;">
+    <img src="LinkedIn.jpg" width="70" style="border:none;">
   </a>
 
-  <a href="https://instagram.com/nnjliaa" target="_blank">
-    <img src="Insta.jpg" width="70"/>
+  <a href="https://instagram.com/nnjliaa" target="_blank" style="text-decoration:none;">
+    <img src="Insta.jpg" width="70" style="border:none;">
   </a>
 
-  <a href="mailto:najliaintani@gmail.com">
-    <img src="Email.jpg" width="70"/>
+  <a href="mailto:najliaintani@gmail.com" style="text-decoration:none;">
+    <img src="Email.jpg" width="70" style="border:none;">
   </a>
 </p>
